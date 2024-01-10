@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ray-tribute/static/css/main.919b1f24.css",
+    "main.js": "/ray-tribute/static/js/main.edf8b953.js",
+    "static/js/787.b5e9ab72.chunk.js": "/ray-tribute/static/js/787.b5e9ab72.chunk.js",
+    "static/media/w1.jpg": "/ray-tribute/static/media/w1.6c6868299793b2d63158.jpg",
+    "static/media/Caroline.woff": "/ray-tribute/static/media/Caroline.66876bacd5a6e77ddc6a.woff",
+    "index.html": "/ray-tribute/index.html",
+    "main.919b1f24.css.map": "/ray-tribute/static/css/main.919b1f24.css.map",
+    "main.edf8b953.js.map": "/ray-tribute/static/js/main.edf8b953.js.map",
+    "787.b5e9ab72.chunk.js.map": "/ray-tribute/static/js/787.b5e9ab72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.919b1f24.css",
+    "static/js/main.edf8b953.js"
+  ]
+}
