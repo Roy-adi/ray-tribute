@@ -79,7 +79,7 @@ const Hero = () => {
                   circles. Within India, he basically remained a ‘Director’s
                   director’, inspiring several generations of Indian ‘art’ or
                   ‘parallel’ film-makers like Shyam Benegal and Adoor
-                  Gopalakrishnan. However, film buffs of the West, used to
+                  Gopalakrishnan.. However, film buffs of the West, used to
                   watching foreign films with English sub-titles, did watch and
                   greatly appreciate many (though not all) of his films <br />{" "}
                   <br />
